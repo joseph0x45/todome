@@ -1,4 +1,4 @@
 - [x] Create todo
 - [x] Read all todos
-- [ ] Update todo
-- [ ] Delete todo
+- [x] Update todo
+- [x] Delete todo
